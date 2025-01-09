@@ -1,4 +1,5 @@
-![](gif-display/sungai.gif)
+<!-- ![](gif-display/sungai.gif) -->
+<img src="gif-display/sungai.gif" alt="Sungai GIF" width="800" />
 <center><h1>💫 Hi, I'm Ahmad Fillah Alwy 👋</h1></center>
 
 ---
