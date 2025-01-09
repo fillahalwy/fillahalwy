@@ -1,4 +1,5 @@
-# <center>💫 Hi, I'm Ahmad Fillah Alwy👋<center/>
+![](animangascenery.gif)
+# <center>💫 Hi, I'm Ahmad Fillah Alwy👋</center>
 🌱 I’m currently learning Internet of Things and Machine Learning<br>💬 Ask me about Anything<br>📫 How to reach me ahmadfillahalwy12@gmail.com<br>📝 I sometimes write articles on https://medium.com/@fillahalwy<br>🔗Connect with Me https://www.linkedin.com/in/ahmadfillahalwy/<br>
 
 
