@@ -4,7 +4,9 @@
 
 ---
 
-🌱 I’m currently learning **Web Programming & Internet of Things**, if you curious with me, 💬Ask me about Anything! You can reach me by [ahmadfillahalwy12@gmail.com](mailto:ahmadfillahalwy12@gmail.com). 📝 Sometimes if I got bored I wrote articles on [Medium](https://medium.com/@fillahalwy). You can connect with me on [Ahmad Fillah Alwy](https://www.linkedin.com/in/ahmadfillahalwy/). Thank youu <br>
+🌱 I’m currently learning **Web Programming & Internet of Things**, if you curious with me, 💬Ask me about Anything!  
+You can reach me by [ahmadfillahalwy12@gmail.com](mailto:ahmadfillahalwy12@gmail.com).   
+Also, You can connect with me on [Ahmad Fillah Alwy](https://www.linkedin.com/in/ahmadfillahalwy/). Thank youu  
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k1OHJ1Z292ZHhqOGgxczg2MHdhZWdvd3lhOGViYzNzNzZ1dHI1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fzyOvQ7jJplVHhz895/giphy.gif" alt="Sungai GIF" width="200"/> 
 
 ---
