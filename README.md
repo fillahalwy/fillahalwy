@@ -10,7 +10,7 @@
 ## ⚡Skills
 
 * Backend web development (PHP, JavaScript)
-* Frontend web development (React.js, Vue.js)
+* Frontend web development (Tailwind CSS, React.js)
 * Internet of Things (ESP32, Arduino, Dashboard)
 
 ---
