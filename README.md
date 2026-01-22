@@ -11,7 +11,7 @@
 
 * Backend web development (PHP, JavaScript)
 * Frontend web development (Tailwind CSS, React.js)
-* Internet of Things (ESP32, Arduino, Dashboard)
+* Internet of Things Learner (ESP32, Arduino, Dashboard)
 
 ---
 
