@@ -20,6 +20,7 @@
 * Aquascape
 * Reading
 * Gaming
+* Listening the music
 * etc...
 
 ---
@@ -32,8 +33,8 @@
 
 ## 📚 Learning
 
-* JavaScript
-* Python
+* Backend with JavaScript
+* Backend with Python
 * Typescript
 
 ---
