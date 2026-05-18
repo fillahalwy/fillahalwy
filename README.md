@@ -26,9 +26,7 @@
 ---
 
 ## 💻 Current projects
-
-* PROTEK - Capstone Project from Asah led by Dicoding
-
+_Mangkrak_
 ---
 
 ## 📚 Learning
@@ -36,6 +34,7 @@
 * Backend with JavaScript
 * Backend with Python
 * Typescript
+* Internet of Things
 
 ---
 
